@@ -1,0 +1,5 @@
+1内在信度 使用SPSS的Reliabilty模块分析，可以参考SPSS教材。总体内部一致信度SPSS也会输出。
+2方差分析，使用SPSS的compare means-one-way ANOVA完成即可，报告中做了多重比较分析。
+3指数计算，使用SPSS的Compute模块，参考报告公式即可。
+4聚类分析，使用SPSSK-means Cluster模块。
+5满意比例，使用SPSS的Recode---into different variables完成分组，可以设定小于3为不满意，大于等于3为满意，或者之间使用SPSS频次分析，从频次分析表格中观察满意比例。
