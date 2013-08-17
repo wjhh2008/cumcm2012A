@@ -1,0 +1,1 @@
+theta=normalEqn([ones(27,1) X],y);
